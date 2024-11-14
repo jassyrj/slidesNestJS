@@ -154,7 +154,7 @@ nest g service TallerRepository --flat
 
 # Definición de entidades
 
-## Definir las propiedades de la clase Taller y sus DTOs
+Definir las propiedades de la clase Taller y sus DTOs
 
 ```ts 
 export class Taller {
@@ -258,6 +258,8 @@ Implementar un CRUD para el registro de asistentes a un taller
   - Agregar cupo máximo
   - Agregar cupo actual
   - Devolver 404 cuando el cupo se ha llenado
+
+---
 
 # Material adicional a investigar por cuenta propia
 
