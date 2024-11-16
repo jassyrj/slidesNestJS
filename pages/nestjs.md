@@ -271,3 +271,15 @@ Implementar un CRUD para el registro de asistentes a un taller
 - Integración con BaaS
 - Redis para emisión y consumo de eventos
 - Cache para performance
+
+---
+
+# Repositorio en github
+
+Pueden clonar el repositorio de github en la siguiente dirección:
+
+https://github.com/jassyrj/ejercicioSeminario
+
+Proyecto con las slides
+
+https://github.com/jassyrj/slidesNestJS
